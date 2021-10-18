@@ -1,0 +1,13 @@
+C:\Users\adminvm.adminvm\source\repos\AbstractClass_InterfaceDemo\AbstractClass_InterfaceDemo\bin\Debug\netcoreapp3.1\AbstractClass_InterfaceDemo.exe
+C:\Users\adminvm.adminvm\source\repos\AbstractClass_InterfaceDemo\AbstractClass_InterfaceDemo\bin\Debug\netcoreapp3.1\AbstractClass_InterfaceDemo.deps.json
+C:\Users\adminvm.adminvm\source\repos\AbstractClass_InterfaceDemo\AbstractClass_InterfaceDemo\bin\Debug\netcoreapp3.1\AbstractClass_InterfaceDemo.runtimeconfig.json
+C:\Users\adminvm.adminvm\source\repos\AbstractClass_InterfaceDemo\AbstractClass_InterfaceDemo\bin\Debug\netcoreapp3.1\AbstractClass_InterfaceDemo.runtimeconfig.dev.json
+C:\Users\adminvm.adminvm\source\repos\AbstractClass_InterfaceDemo\AbstractClass_InterfaceDemo\bin\Debug\netcoreapp3.1\AbstractClass_InterfaceDemo.dll
+C:\Users\adminvm.adminvm\source\repos\AbstractClass_InterfaceDemo\AbstractClass_InterfaceDemo\bin\Debug\netcoreapp3.1\AbstractClass_InterfaceDemo.pdb
+C:\Users\adminvm.adminvm\source\repos\AbstractClass_InterfaceDemo\AbstractClass_InterfaceDemo\obj\Debug\netcoreapp3.1\AbstractClass_InterfaceDemo.csprojAssemblyReference.cache
+C:\Users\adminvm.adminvm\source\repos\AbstractClass_InterfaceDemo\AbstractClass_InterfaceDemo\obj\Debug\netcoreapp3.1\AbstractClass_InterfaceDemo.AssemblyInfoInputs.cache
+C:\Users\adminvm.adminvm\source\repos\AbstractClass_InterfaceDemo\AbstractClass_InterfaceDemo\obj\Debug\netcoreapp3.1\AbstractClass_InterfaceDemo.AssemblyInfo.cs
+C:\Users\adminvm.adminvm\source\repos\AbstractClass_InterfaceDemo\AbstractClass_InterfaceDemo\obj\Debug\netcoreapp3.1\AbstractClass_InterfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\adminvm.adminvm\source\repos\AbstractClass_InterfaceDemo\AbstractClass_InterfaceDemo\obj\Debug\netcoreapp3.1\AbstractClass_InterfaceDemo.dll
+C:\Users\adminvm.adminvm\source\repos\AbstractClass_InterfaceDemo\AbstractClass_InterfaceDemo\obj\Debug\netcoreapp3.1\AbstractClass_InterfaceDemo.pdb
+C:\Users\adminvm.adminvm\source\repos\AbstractClass_InterfaceDemo\AbstractClass_InterfaceDemo\obj\Debug\netcoreapp3.1\AbstractClass_InterfaceDemo.genruntimeconfig.cache
